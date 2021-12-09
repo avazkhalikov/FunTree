@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunTree", "FunTree\FunTree.csproj", "{0C687DCA-365D-4B6C-85A1-5E9B4893E250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C687DCA-365D-4B6C-85A1-5E9B4893E250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C687DCA-365D-4B6C-85A1-5E9B4893E250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C687DCA-365D-4B6C-85A1-5E9B4893E250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C687DCA-365D-4B6C-85A1-5E9B4893E250}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {330A5FA2-5CF9-434D-AE4B-FA13645B8BC6}
+	EndGlobalSection
+EndGlobal
